@@ -1,4 +1,4 @@
-- Avoir un compte github
+- Avoir un compte github v2
 - De préférence, avoir un éditeur de code (ex: VS Code)
 
 ## Etapes à suivre :
